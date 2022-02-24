@@ -15,5 +15,6 @@ pip install "git+git://github.com/histocartography/athena.git@master"
 
 # install tutorial specific packages
 pip install colorcet
+pip install jupyter lab
 
 ```
